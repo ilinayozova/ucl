@@ -46,7 +46,7 @@ Menus:
     #   weight: 2
 
 params:
-  version: 3
+  version: 1
   customCSS: false
 
   favicon: "Y (2).png"
