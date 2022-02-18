@@ -37,11 +37,11 @@ params:
       Url: "/blog"
 
   # Home
-  name: "Example name"
-  profile: "/images/v1/avatar.webp"
-  github: "https://github.com/"
-  linkedin: "https://linkedin.com/"
-  twitter: "https://twitter.com/"
+  name: "Ilina Yozova"
+  profile: "/images/pic1.jpg"
+  github: "https://github.com/ilinayozova/"
+  linkedin: "https://www.linkedin.com/in/ilina-yozova-38b6ba169/"
+  twitter: "https://twitter.com/iyozova/"
   instagram: "https://instagram.com/"
 
   # Things I do
