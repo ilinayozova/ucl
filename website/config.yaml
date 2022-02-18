@@ -86,8 +86,8 @@ params:
       percentage: 70
 
   # Experience
-  disable_experience: false
-  experience:
+  disable_teaching: false
+  teaching:
     - company: "Google"
       # id: "google-developer"   // use this, when you want to change the id(used for navigation)
       role: "Software developer"
