@@ -1,6 +1,6 @@
-baseURL: "https://ilinayozova.github.io/ucl/"
+baseURL: "Ilina Yozova"
 languageCode: "en-us"
-title: "Ilina-profile"
+title: "Ilina Yozova"
 theme: "./.."
 relativeURLs: true
 
