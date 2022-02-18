@@ -1,6 +1,6 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://ilinayozova.github.io/ucl/"
 languageCode: "en-us"
-title: "Hugo-profile"
+title: "Ilina-profile"
 theme: "./.."
 relativeURLs: true
 
@@ -49,13 +49,13 @@ params:
   version: 3
   customCSS: false
 
-  favicon: "/images/fav.png"
+  favicon: "Y (2).png"
   description: "A high performance hugo theme for personal portfolio and blog."
 
   # home
   disable_home: false
-  profile_image: "/images/profile.png"
-  name: "Example name"
+  profile_image: "/images/pic1.jpg"
+  name: "Ilina Yozova"
   namecolor: ffc107
   profession: "Profession"
   github: "https://github.com"
@@ -74,7 +74,7 @@ params:
   
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Profile, a passionate web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+  descripe_l1_person: "Hi, I'm ILINA Profile, a passionate web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
   descripe_l2_person: "This is a example template for about section. You can find my works [here](#projects)"
   skills:
     - name: CSS
