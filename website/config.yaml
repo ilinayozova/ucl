@@ -57,13 +57,13 @@ params:
   profile_image: "/images/pic1.jpg"
   name: "Ilina Yozova"
   namecolor: ffc107
-  profession: "Profession"
-  github: "https://github.com"
-  gitlab: "https://gitlab.com"
-  linkedin: "https://linkedin.com"
-  twitter: "https://twitter.com/"
+  profile: "/images/pic1.jpg"
+  github: "https://github.com/ilinayozova/"
+  linkedin: "https://www.linkedin.com/in/ilina-yozova-38b6ba169/"
+  twitter: "https://twitter.com/iyozova/"
   instagram: "https://instagram.com/"
-  facebook: "https://facebook.com"
+  profession: "Profession"
+ 
 
   #Custom social links
   # customSocialLinks:
