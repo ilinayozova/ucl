@@ -1,6 +1,6 @@
 baseURL: "https://example.com"
 languageCode: "en-us"
-title: "Hugo-profile"
+title: "Ilina Yozova"
 theme: "./.."
 relativeURLs: true
 
@@ -16,7 +16,7 @@ params:
   version: 1
   customCSS: false
 
-  favicon: "/images/hugo.png"
+  favicon: "Y (2).png"
   description: "A hugh performance hugo theme for personal website. It is single page portfolio. It has blog, contact sections also. Contact is powered by formspree."
   disqus: ""
 
