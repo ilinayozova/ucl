@@ -85,7 +85,7 @@ params:
     - name: React JS
       percentage: 70
 
-  # Experience
+  # Teaching
   disable_teaching: false
   teaching:
     - company: "Google"
