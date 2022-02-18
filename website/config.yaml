@@ -57,7 +57,6 @@ params:
   profile_image: "/images/pic1.jpg"
   name: "Ilina Yozova"
   namecolor: ffc107
-  profile: "/images/pic1.jpg"
   github: "https://github.com/ilinayozova/"
   linkedin: "https://www.linkedin.com/in/ilina-yozova-38b6ba169/"
   twitter: "https://twitter.com/iyozova/"
